@@ -7,7 +7,7 @@ The tool is built using C and utilizes the FFmpeg library for video processing.
 
 1. Install the [build prerequisites](#build-prerequisites) on your system
 2. Clone this repository
-3. `cd prpr_cli_video_effects/`
+3. `cd video-effects/`
 4. `autoreconf -if`
 5. `./configure`
 6. `make`
